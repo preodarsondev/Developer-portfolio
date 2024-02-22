@@ -1,13 +1,26 @@
-.btn-brand
+.btn-brand{
+    background-color: #FD6E0A;
+    color: #fff;
+    height: 32px;
+    width: 100px;
+    border: #FD6E0A;
+    font-weight: bold;
+}
 
 nav{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center !important;
     margin: 0 200px;
+}
+.site-title>span {
+    color: #FD6E0A;
 }
 ul{
     display: flex;
+    /* padding: 0px; */
+    align-items: center;
+
     
 }
 ul>li {
