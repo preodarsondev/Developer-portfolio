@@ -1,0 +1,17 @@
+.btn-brand
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+ul{
+    display: flex;
+    
+}
+ul>li {
+    /* margin: 0px 200px; */
+    list-style: none;
+    margin-right: 50px;
+}
