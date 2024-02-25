@@ -49,3 +49,19 @@ ul>li {
 .banner .profile-pic{
     width: 500px;
 }
+/* main section */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+main section {
+    margin-top: 130px;
+}
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
+    text-align: center;
+}
