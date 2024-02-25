@@ -28,3 +28,15 @@ ul>li {
     list-style: none;
     margin-right: 50px;
 }
+.banner{
+    display: flex;
+    padding: 30px 30px 0px 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-content{
+    max-width: 50%;
+}
+.banner .profile-pic{
+    width: 400px;
+}
