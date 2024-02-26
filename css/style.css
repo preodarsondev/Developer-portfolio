@@ -69,3 +69,9 @@ main section {
     display: flex;
     justify-content: space-around;
 }
+.section-title, .what-i-do-description{
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+}
